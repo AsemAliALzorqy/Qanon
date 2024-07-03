@@ -5,7 +5,7 @@ import docx
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 
 # Replace YOUR_BOT_TOKEN with your actual token
-BOT_TOKEN = '7485184909:AAEaDKq7YGZxBl3OTwBzR76SYSzVCzlBzbE'
+BOT_TOKEN = '7308978410:AAGknd4DRytR_I94f3yJHqAPtn7Tv034EwU'
 
 # Download NLTK data files (run this once)
 nltk.download('punkt')
